@@ -20,7 +20,8 @@ public class Main {
         System.out.println(pacoteCursoMicrosoft.getDescricao());
 
 
-
+        Usuario u1 = Usuario.getInstance();
+        Usuario u2 = Usuario.getInstance();
 
 
 
