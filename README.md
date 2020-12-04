@@ -11,3 +11,7 @@ conteúdos exclusivos.
 Utilizamos o Singleton para que o cliente crie um usuário, se instanciarmos um mesmo usuário ele retorna que este usuário já foi criado.
 
 Obs: Quando fui fazer o commit especifiquei que fiz um Composite e um Decorator, mas implementei foi um Proxy.
+
+
+FabioAP09 = fabioap@unipam.edu.br
+
