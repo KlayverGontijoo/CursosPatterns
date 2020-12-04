@@ -11,6 +11,8 @@ conteúdos exclusivos.
 Utilizamos o Singleton para que o cliente crie um usuário, se instanciarmos um mesmo usuário ele retorna que este usuário já foi criado.
 
 Obs: Quando fui fazer o commit especifiquei que fiz um Composite e um Decorator, mas implementei foi um Proxy.
+Obs: Não conseguimos fazer um pull request, não aparecia dados para comparar e fazer o merge, então o Klayver criou o Singleton na branch master, e eu Fábio clonei o projeto dele 
+e criei o Proxy e Composite na branch NovaBranch.
 
 
 FabioAP09 = fabioap@unipam.edu.br
